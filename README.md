@@ -1,2 +1,2 @@
 # mine-sweeping
-### this is a homework for Software Design Training
+### this is a project for Software Design Training
