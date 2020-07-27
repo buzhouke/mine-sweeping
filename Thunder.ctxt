@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Thunder
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ success()
+comment3.params=i\ j\ isClicked
+comment3.target=Thunder(int,\ int,\ boolean)
+comment4.params=x\ y
+comment4.target=void\ hint(int,\ int)
+comment5.params=x\ y
+comment5.target=int\ count(int,\ int)
+comment6.params=test1\ test2
+comment6.target=boolean\ bound(int,\ int)
+comment7.params=
+comment7.target=boolean\ getisClicked()
+comment8.params=x\ y
+comment8.target=void\ search(int,\ int)
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ random()
+comment3.params=
+comment3.target=Button()
+comment4.params=isStarted\ random_count
+comment4.target=Button(boolean,\ int)
+comment5.params=
+comment5.target=boolean[][]\ getArray()
+comment6.params=
+comment6.target=boolean\ getisStarted()
+comment7.params=
+comment7.target=int\ getrandom_count()
+numComments=8

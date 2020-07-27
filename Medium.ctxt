@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Medium
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Medium()
+comment3.params=isStarted\ random_count
+comment3.target=Medium(boolean,\ int)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hard
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Hard()
+comment3.params=isStarted\ random_count
+comment3.target=Hard(boolean,\ int)
+numComments=4
